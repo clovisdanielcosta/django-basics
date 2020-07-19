@@ -21,19 +21,25 @@ This repository was created to show the main commands needed to create an applic
 1. Create a directory and a sub-directory to install a Virtual Env:
   
     `$ mkdir my_directory`
+
     `$ cd my_directory`
+
     `$ mkdir venv`
 
 2. Create and activate a Virtual Enviroment (Virtual Env):
   
     `$ cd venv`
+
     `$ python -m venv name_venv`
+
     `$ cd name_venv/Scripts`
 
     - On PowerShell or cmd:
+
         `$ activate`
 
-    -On GitBash:
+    - On GitBash:
+    
         `$ source activate`
 
 3. Install Django:

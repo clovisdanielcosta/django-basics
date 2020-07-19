@@ -31,7 +31,7 @@ In a browser type:
   
     `localhost:8000`
 
-## :small_orange_diamond: Contribuindo
+## :small_orange_diamond: Sharing
 
 1. To understand a little more about migration from Sqlite to Postgres check the link bellow:
 
@@ -41,8 +41,6 @@ In a browser type:
 
     [https://www.youtube.com/watch?v=wsi0xpHUM00](https://www.youtube.com/watch?v=wsi0xpHUM00)
 
-## :small_orange_diamond: Licença
+## :small_orange_diamond: LIcense
 
-Esse projeto está sob a licença MIT. Veja o arquivo  para mais detalhes.
-A(s) imagem(s) usada(s) neste projeto são originais do autor ou foram obtidas através de sites de terceiros com a devida autorização para uso gratuito.
     This project is undet MIT license. Open file [LICENSE](LICENSE.md) to details. The images in this project were maded by repo's owner or taken from another repo in the web with the right authorization of use.
